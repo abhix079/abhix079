@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 
+**I'm a MERN Stack develper and graphic designer building sleek websites and engaging graphics.
+
 
 <!--
 **abhix079/abhix079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
