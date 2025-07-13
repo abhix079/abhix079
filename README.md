@@ -1,5 +1,5 @@
 ## Hi there 
-**I'm a MERN Stack develper and graphic designer building sleek websites and engaging graphics.
+I'm a MERN Stack develper and graphic designer building sleek websites and engaging graphics.
 
 
 <!--
